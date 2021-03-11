@@ -1,0 +1,28 @@
+C:\Users\eming\Desktop\WebApiProject\DataAccess\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\eming\Desktop\WebApiProject\DataAccess\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\eming\Desktop\WebApiProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csprojAssemblyReference.cache
+C:\Users\eming\Desktop\WebApiProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
+C:\Users\eming\Desktop\WebApiProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfo.cs
+C:\Users\eming\Desktop\WebApiProject\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.deps.json
+C:\Users\eming\Desktop\WebApiProject\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\eming\Desktop\WebApiProject\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\eming\Desktop\WebApiProject\DataAccess\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\eming\Desktop\WebApiProject\DataAccess\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\eming\Desktop\WebApiProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\eming\Desktop\WebApiProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CopyComplete
+C:\Users\eming\Desktop\WebApiProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\eming\Desktop\WebApiProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\Ersin KURU\Desktop\WebApiProject\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.deps.json
+C:\Users\Ersin KURU\Desktop\WebApiProject\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\Ersin KURU\Desktop\WebApiProject\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\Ersin KURU\Desktop\WebApiProject\DataAccess\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\Ersin KURU\Desktop\WebApiProject\DataAccess\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\Ersin KURU\Desktop\WebApiProject\DataAccess\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\Ersin KURU\Desktop\WebApiProject\DataAccess\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\Ersin KURU\Desktop\WebApiProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csprojAssemblyReference.cache
+C:\Users\Ersin KURU\Desktop\WebApiProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Ersin KURU\Desktop\WebApiProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfo.cs
+C:\Users\Ersin KURU\Desktop\WebApiProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Ersin KURU\Desktop\WebApiProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CopyComplete
+C:\Users\Ersin KURU\Desktop\WebApiProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\Ersin KURU\Desktop\WebApiProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.pdb

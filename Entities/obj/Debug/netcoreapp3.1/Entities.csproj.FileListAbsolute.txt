@@ -1,0 +1,24 @@
+C:\Users\eming\Desktop\WebApiProject\Entities\bin\Debug\netcoreapp3.1\Entities.deps.json
+C:\Users\eming\Desktop\WebApiProject\Entities\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\eming\Desktop\WebApiProject\Entities\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\eming\Desktop\WebApiProject\Entities\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\eming\Desktop\WebApiProject\Entities\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\eming\Desktop\WebApiProject\Entities\obj\Debug\netcoreapp3.1\Entities.csprojAssemblyReference.cache
+C:\Users\eming\Desktop\WebApiProject\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+C:\Users\eming\Desktop\WebApiProject\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+C:\Users\eming\Desktop\WebApiProject\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
+C:\Users\eming\Desktop\WebApiProject\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CopyComplete
+C:\Users\eming\Desktop\WebApiProject\Entities\obj\Debug\netcoreapp3.1\Entities.dll
+C:\Users\eming\Desktop\WebApiProject\Entities\obj\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\Ersin KURU\Desktop\WebApiProject\Entities\bin\Debug\netcoreapp3.1\Entities.deps.json
+C:\Users\Ersin KURU\Desktop\WebApiProject\Entities\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\Ersin KURU\Desktop\WebApiProject\Entities\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\Ersin KURU\Desktop\WebApiProject\Entities\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\Ersin KURU\Desktop\WebApiProject\Entities\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\Ersin KURU\Desktop\WebApiProject\Entities\obj\Debug\netcoreapp3.1\Entities.csprojAssemblyReference.cache
+C:\Users\Ersin KURU\Desktop\WebApiProject\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+C:\Users\Ersin KURU\Desktop\WebApiProject\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+C:\Users\Ersin KURU\Desktop\WebApiProject\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Ersin KURU\Desktop\WebApiProject\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CopyComplete
+C:\Users\Ersin KURU\Desktop\WebApiProject\Entities\obj\Debug\netcoreapp3.1\Entities.dll
+C:\Users\Ersin KURU\Desktop\WebApiProject\Entities\obj\Debug\netcoreapp3.1\Entities.pdb

@@ -1,0 +1,18 @@
+C:\Users\eming\Desktop\WebApiProject\Data\bin\Debug\netcoreapp3.1\Data.deps.json
+C:\Users\eming\Desktop\WebApiProject\Data\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\eming\Desktop\WebApiProject\Data\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\eming\Desktop\WebApiProject\Data\obj\Debug\netcoreapp3.1\Data.csprojAssemblyReference.cache
+C:\Users\eming\Desktop\WebApiProject\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+C:\Users\eming\Desktop\WebApiProject\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+C:\Users\eming\Desktop\WebApiProject\Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+C:\Users\eming\Desktop\WebApiProject\Data\obj\Debug\netcoreapp3.1\Data.dll
+C:\Users\eming\Desktop\WebApiProject\Data\obj\Debug\netcoreapp3.1\Data.pdb
+C:\Users\Ersin KURU\Desktop\WebApiProject\Data\bin\Debug\netcoreapp3.1\Data.deps.json
+C:\Users\Ersin KURU\Desktop\WebApiProject\Data\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\Ersin KURU\Desktop\WebApiProject\Data\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\Ersin KURU\Desktop\WebApiProject\Data\obj\Debug\netcoreapp3.1\Data.csprojAssemblyReference.cache
+C:\Users\Ersin KURU\Desktop\WebApiProject\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+C:\Users\Ersin KURU\Desktop\WebApiProject\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+C:\Users\Ersin KURU\Desktop\WebApiProject\Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+C:\Users\Ersin KURU\Desktop\WebApiProject\Data\obj\Debug\netcoreapp3.1\Data.dll
+C:\Users\Ersin KURU\Desktop\WebApiProject\Data\obj\Debug\netcoreapp3.1\Data.pdb

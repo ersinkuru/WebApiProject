@@ -1,0 +1,32 @@
+C:\Users\eming\Desktop\WebApiProject\Business\bin\Debug\netcoreapp3.1\Business.deps.json
+C:\Users\eming\Desktop\WebApiProject\Business\bin\Debug\netcoreapp3.1\Business.dll
+C:\Users\eming\Desktop\WebApiProject\Business\bin\Debug\netcoreapp3.1\Business.pdb
+C:\Users\eming\Desktop\WebApiProject\Business\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\eming\Desktop\WebApiProject\Business\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\eming\Desktop\WebApiProject\Business\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\eming\Desktop\WebApiProject\Business\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\eming\Desktop\WebApiProject\Business\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\eming\Desktop\WebApiProject\Business\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\eming\Desktop\WebApiProject\Business\obj\Debug\netcoreapp3.1\Business.csprojAssemblyReference.cache
+C:\Users\eming\Desktop\WebApiProject\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfoInputs.cache
+C:\Users\eming\Desktop\WebApiProject\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfo.cs
+C:\Users\eming\Desktop\WebApiProject\Business\obj\Debug\netcoreapp3.1\Business.csproj.CoreCompileInputs.cache
+C:\Users\eming\Desktop\WebApiProject\Business\obj\Debug\netcoreapp3.1\Business.csproj.CopyComplete
+C:\Users\eming\Desktop\WebApiProject\Business\obj\Debug\netcoreapp3.1\Business.dll
+C:\Users\eming\Desktop\WebApiProject\Business\obj\Debug\netcoreapp3.1\Business.pdb
+C:\Users\Ersin KURU\Desktop\WebApiProject\Business\bin\Debug\netcoreapp3.1\Business.deps.json
+C:\Users\Ersin KURU\Desktop\WebApiProject\Business\bin\Debug\netcoreapp3.1\Business.dll
+C:\Users\Ersin KURU\Desktop\WebApiProject\Business\bin\Debug\netcoreapp3.1\Business.pdb
+C:\Users\Ersin KURU\Desktop\WebApiProject\Business\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\Ersin KURU\Desktop\WebApiProject\Business\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\Ersin KURU\Desktop\WebApiProject\Business\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\Ersin KURU\Desktop\WebApiProject\Business\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\Ersin KURU\Desktop\WebApiProject\Business\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\Ersin KURU\Desktop\WebApiProject\Business\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\Ersin KURU\Desktop\WebApiProject\Business\obj\Debug\netcoreapp3.1\Business.csprojAssemblyReference.cache
+C:\Users\Ersin KURU\Desktop\WebApiProject\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfoInputs.cache
+C:\Users\Ersin KURU\Desktop\WebApiProject\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfo.cs
+C:\Users\Ersin KURU\Desktop\WebApiProject\Business\obj\Debug\netcoreapp3.1\Business.csproj.CoreCompileInputs.cache
+C:\Users\Ersin KURU\Desktop\WebApiProject\Business\obj\Debug\netcoreapp3.1\Business.csproj.CopyComplete
+C:\Users\Ersin KURU\Desktop\WebApiProject\Business\obj\Debug\netcoreapp3.1\Business.dll
+C:\Users\Ersin KURU\Desktop\WebApiProject\Business\obj\Debug\netcoreapp3.1\Business.pdb
